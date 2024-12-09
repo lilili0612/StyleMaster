@@ -9,7 +9,9 @@
 
 **[StyleMaster: Stylize Your Video with Artistic Generation and Translation](https://arxiv.org/abs/)**
 
-[video](https://github.com/zixuan-ye/stylemaster/blob/main/assets/teaser.mp4)
+[video](https://github.com/user-attachments/assets/44f6ff07-8a12-4313-8ce6-d7c3ec2f00d8)
+
+
 
 
 [Zixuan Ye](https://zixuan-ye.github.io/)<sup>1 &dagger;</sup>, [Huijuan Huang](https://openreview.net/profile?id=~Huijuan_Huang1)<sup>2&#9993;</sup>, [Xintao Wang](https://xinntao.github.io/)<sup>2</sup>, [Pengfei Wan](https://scholar.google.com/citations?user=P6MraaYAAAAJ&hl=en)<sup>2</sup>, [Di Zhang](https://openreview.net/profile?id=~Di_ZHANG3)<sup>2</sup>, [Wenhan Luo](https://whluo.github.io/)<sup>1&#9993;</sup>
@@ -38,6 +40,10 @@ Welcome to **StyleMaster**! StyleMaster focuses on style control, i.e., generati
 
 
 
+## Related Work
+We also encourage readers to follow other exciting master-series works.
+- [3DTrajMaster](http://fuxiao0719.github.io/projects/3dtrajmaster): control multiple entity motions in 3D space (6DoF) for text-to-video generation
+- [SynCamMaster](https://jianhongbai.github.io/SynCamMaster/): extend single-camera video generation to multi-camera video synchronization
 
 ## Citation
 
