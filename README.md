@@ -43,7 +43,7 @@ Welcome to **StyleMaster**! StyleMaster focuses on style control, i.e., generati
 ## Related Work
 We also encourage readers to follow other exciting master-series works.
 - [3DTrajMaster](http://fuxiao0719.github.io/projects/3dtrajmaster): control multiple entity motions in 3D space (6DoF) for text-to-video generation
-- [SynCamMaster](https://jianhongbai.github.io/SynCamMaster/): extend single-camera video generation to multi-camera video synchronization
+- [SynCamMaster](https://jianhongbai.github.io/SynCamMaster/): multi-camera synchronized video generation from diverse viewpoints
 
 ## Citation
 
