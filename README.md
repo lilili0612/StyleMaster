@@ -1,4 +1,4 @@
-# StyleMaster
+# StyleMaster: Stylize Your Video with Artistic Generation and Translation
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2410.10511-b31b1b)](https://arxiv.org/abs/)&nbsp;
@@ -7,12 +7,12 @@
 </div>
 
 
-**[StyleMaster: Stylize Your Video with Artistic Generation and Translation](https://arxiv.org/abs/)**
 
 [video](https://github.com/user-attachments/assets/44f6ff07-8a12-4313-8ce6-d7c3ec2f00d8)
 
 
 
+**[StyleMaster: Stylize Your Video with Artistic Generation and Translation](https://arxiv.org/abs/)**
 
 [Zixuan Ye](https://zixuan-ye.github.io/)<sup>1 &dagger;</sup>, [Huijuan Huang](https://openreview.net/profile?id=~Huijuan_Huang1)<sup>2&#9993;</sup>, [Xintao Wang](https://xinntao.github.io/)<sup>2</sup>, [Pengfei Wan](https://scholar.google.com/citations?user=P6MraaYAAAAJ&hl=en)<sup>2</sup>, [Di Zhang](https://openreview.net/profile?id=~Di_ZHANG3)<sup>2</sup>, [Wenhan Luo](https://whluo.github.io/)<sup>1&#9993;</sup>
 
