@@ -1,7 +1,7 @@
 # StyleMaster: Stylize Your Video with Artistic Generation and Translation
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2410.10511-b31b1b)](https://arxiv.org/abs/)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2412.-b31b1b)](https://arxiv.org/abs/)&nbsp;
 [![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster/)&nbsp;
 
 </div>
@@ -39,9 +39,13 @@ Welcome to **StyleMaster**! StyleMaster focuses on style control, i.e., generati
 - **High-Quality Video Generation**: Generates videos with high style similarity to the reference image and achieves ideal translation results.
 
 ## Related Work
-We also encourage readers to follow other exciting master-series works.
+We also encourage readers to follow other exciting master-series works:
 - [3DTrajMaster](http://fuxiao0719.github.io/projects/3dtrajmaster): control multiple entity motions in 3D space (6DoF) for text-to-video generation
 - [SynCamMaster](https://jianhongbai.github.io/SynCamMaster/): multi-camera synchronized video generation from diverse viewpoints
+
+and other exciting stylization methods:
+- [StyleCrafter](https://gongyeliu.github.io/StyleCrafter.github.io/): first achieves style control in video generation
+- [InstantStyle](https://instantstyle.github.io/): exciting image stylization work
 
 ## Citation
 
