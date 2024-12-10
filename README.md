@@ -2,7 +2,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2410.10511-b31b1b)](https://arxiv.org/abs/)&nbsp;
-[![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster.github.io/)&nbsp;
+[![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster/)&nbsp;
 
 </div>
 
@@ -37,8 +37,6 @@ Welcome to **StyleMaster**! StyleMaster focuses on style control, i.e., generati
 - **Motion Adapter**: Enhances motion quality during inference and helps to enhance the style extent.
 - **Gray Tile ControlNet**: Provides accessible yet precise content guidance for video style transfer.
 - **High-Quality Video Generation**: Generates videos with high style similarity to the reference image and achieves ideal translation results.
-
-
 
 ## Related Work
 We also encourage readers to follow other exciting master-series works.
