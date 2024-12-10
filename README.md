@@ -24,7 +24,7 @@
 
 ## Update
 
-- [2024.10.15] [arXiv](https://arxiv.org/abs/) preprint is available.
+- [2024.12.11] [arXiv](https://arxiv.org/abs/) preprint is available.
 
 ## Introduction
 
