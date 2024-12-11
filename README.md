@@ -1,7 +1,7 @@
 # StyleMaster: Stylize Your Video with Artistic Generation and Translation
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2412.-b31b1b)](https://arxiv.org/abs/)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2412.07744-b31b1b)](https://arxiv.org/abs/2412.07744)&nbsp;
 [![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster/)&nbsp;
 
 </div>
@@ -53,6 +53,6 @@ and other exciting stylization methods:
 @article{ye2024stylemaster,
   title={StyleMaster: Stylize Your Video with Artistic Generation and Translation},
   author={Ye, Zixuan and Huang, Huijuan and Wang, Xintao and Wan, Pengfei and Zhang, Di and Luo, Wenhan},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2412.07744},
   year={2024}
 }
