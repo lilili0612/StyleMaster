@@ -21,7 +21,8 @@
 
 ## TODO
 - [ ] Implementation on videotuna
-- [ ] Code and weight of style extraction module
+- [ ] Evaluation code and results
+- [x] Code of style extraction module
 - [x] Illusion dataset generation
 
 ## Update
