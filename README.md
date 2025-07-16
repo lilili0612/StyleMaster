@@ -1,7 +1,7 @@
 # StyleMaster
 <div align="center">
 
-[![CVPR'25](https://img.shields.io/badge/arXiv%20paper-2412.07744)](https://arxiv.org/abs/)&nbsp;
+[![CVPR'25](https://img.shields.io/badge/arXiv%20paper-2412.07744-b31b1b)](https://arxiv.org/abs/)&nbsp;
 [![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster)&nbsp;
 
 </div>
