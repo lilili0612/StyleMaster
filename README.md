@@ -1,8 +1,8 @@
 # StyleMaster
 <div align="center">
 
-[![CVPR'25](https://img.shields.io/badge/arXiv%20paper-2410.10511-b31b1b)](https://arxiv.org/abs/)&nbsp;
-[![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster.github.io/)&nbsp;
+[![CVPR'25](https://img.shields.io/badge/arXiv%20paper-2412.07744)](https://arxiv.org/abs/)&nbsp;
+[![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster)&nbsp;
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## Update
 - [2025.2] StyleMaster has been accepted by CVPR2025!
-- [2024.10] [arXiv](https://arxiv.org/abs/) preprint is available.
+- [2024.10] [arXiv](https://arxiv.org/abs/2412.07744) preprint is available.
 
 ## Introduction
 
