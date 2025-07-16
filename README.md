@@ -9,7 +9,7 @@
 
 **[StyleMaster: Stylize Your Video with Artistic Generation and Translation](https://arxiv.org/abs/)**
 
-[video](https://github.com/zixuan-ye/stylemaster/blob/main/assets/teaser.mp4)
+[video](https://github.com/zixuan-ye/stylemaster/blob/main/video/teaser.mp4)
 
 
 [Zixuan Ye](https://zixuan-ye.github.io/)<sup>1 &dagger;</sup>, [Huijuan Huang](https://openreview.net/profile?id=~Huijuan_Huang1)<sup>2&#9993;</sup>, [Xintao Wang](https://xinntao.github.io/)<sup>2</sup>, [Pengfei Wan](https://scholar.google.com/citations?user=P6MraaYAAAAJ&hl=en)<sup>2</sup>, [Di Zhang](https://openreview.net/profile?id=~Di_ZHANG3)<sup>2</sup>, [Wenhan Luo](https://whluo.github.io/)<sup>1&#9993;</sup>
