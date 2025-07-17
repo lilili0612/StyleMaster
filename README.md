@@ -46,7 +46,7 @@ Please refer to [visual_anagrams/readme.md](visual_anagrams/readme.md) for detai
 
 please refer to [stylemaster-wan/readme.md](stylemaster-wan/readme.md) for details.
 
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lilili0612/StyleMaster)
 
 ## Citation
 
