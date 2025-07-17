@@ -3,7 +3,7 @@
 
 [![CVPR'25](https://img.shields.io/badge/arXiv%20paper-2412.07744-b31b1b)](https://arxiv.org/abs/)&nbsp;
 [![project page](https://img.shields.io/badge/Project%20page-StyleMaster-pink)](https://zixuan-ye.github.io/stylemaster)&nbsp;
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lilili0612/StyleMaster)
 </div>
 
 
@@ -46,7 +46,7 @@ Please refer to [visual_anagrams/readme.md](visual_anagrams/readme.md) for detai
 
 please refer to [stylemaster-wan/readme.md](stylemaster-wan/readme.md) for details.
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lilili0612/StyleMaster)
+
 
 ## Citation
 
